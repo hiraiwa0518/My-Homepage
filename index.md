@@ -7,10 +7,8 @@ You can use the [editor on GitHub](https://github.com/hiraiwa0518/report-1--2/ed
 開志専門職大学 情報学部2-A
 
 ## 情報
-・年齢
-20歳
-・持っている資格
-英検2級
+-年齢：20歳
+-持っている資格：英検2級
 
 ## 学外での活動
 セブンイレブンでアルバイトをしている
