@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/hiraiwa0518/report-1--2/ed
 
 ## 概要
 ・所属
-_ 開志専門職大学 情報学部2-A
+  _ 開志専門職大学 情報学部2-A
 
 ## 情報
 - 年齢：20歳
